@@ -10,6 +10,8 @@ https://github.com/jfedor2/hid-remapper/
 
 https://github.com/Franticware/usb-to-ps1-mouse-pro
 
+![Example Photo](photos/example01.jpg)
+
 ## Reasoning
 
 USB-To-PS1-Mouse-Pro is a Pi Pico implementation of the PSX controller spec. It allows a USB mouse to work as a PlayStation mouse on a PSX console.
