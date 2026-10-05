@@ -4,6 +4,8 @@ These files can be imported in via Actions -> Import JSON File in the HID Remapp
 
 They will work fine as-is, but are primarily designed to work with the PSX conversion
 
+![Egret II Mini Mapping Diagram](egret_mappings.svg)
+
 ## taito_egret_ii_mouse.json
 
 This is designed to basically turn the Taito Egret Mini Trackball and Paddle controller into a normal computer mouse.
