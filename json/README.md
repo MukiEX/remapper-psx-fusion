@@ -14,11 +14,23 @@ The purple buttons on the left and right function as left and right mouse clicks
 
 The white button will reverse the knob's x-axis mouse direction, which I thought felt more natural in Tempest X for PS1.
 
-## mouse_joystick_spin.json
+## taito_egret_ii_namco_volume.json
 
-Also designed for the Egret Mini Trackball controller. This will map the scroll wheel on the mouse, which the controller uses as the rotary knob, to spinning the left joystick in a circle. This was partially slop-designed, as between Gemini, Grok, and Claude, nobody could write a functioning set of expressions, but Claude got close enough that I was able to fix it.o
+This basically turns the Egret II Mini into a "Namco Volume" controller. Maps the purple left/right buttons as I and II on that controller and the paddle moves the dial left and right. Works in Namco Museum Volume 2 (Japanese release), which supports the Volume Controller but NOT the PlayStation Mouse.
 
-This is INCREDIBLY niche. It's basically designed for the Warlords clone called "Lords of Lunar", a mini-game included on the "Making of" CD for Lunar: Silver Star Story Complete on PSX.
+## taito_egret_ii_spin_analog_joystick.json
+
+This is a VERY niche use case.
+
+The "Lords of Lunar" mini game that came with the 4th "Making Of" disc in Lunar: Silver Star Story Complete was designed as a 9-player version of Atari's Warlords.
+
+However, it does not support the Volume Controller OR the PlayStation mouse. The only way to orient your paddle is to point the analog joystick in that direction.
+
+As such, this profile presents an Analog Stick with these toggles:
+
+- White mini button mapped to "Analog Toggle". You'll need this to select your character, as the joystic gets in the way.
+- Purple/Blue mini buttons mapped to left and right on the d-pad, respectively
+- Left and Right Purple buttons are mapped to Start and Cross, if I remember right.
 
 ## yuangeki_gamepad.json
 
