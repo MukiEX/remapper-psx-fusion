@@ -1,0 +1,308 @@
+{
+    "version": 18,
+    "unmapped_passthrough_layers": [],
+    "partial_scroll_timeout": 1000000,
+    "tap_hold_threshold": 200000,
+    "gpio_debounce_time_ms": 5,
+    "interval_override": 0,
+    "our_descriptor_number": 4,
+    "ignore_auth_dev_inputs": false,
+    "macro_entry_duration": 1,
+    "gpio_output_mode": 0,
+    "input_labels": 0,
+    "normalize_gamepad_inputs": false,
+    "mappings": [
+        {
+            "target_usage": "0x00010032",
+            "source_usage": "0xfff30002",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0x00010035",
+            "source_usage": "0xfff30003",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0x00090004",
+            "source_usage": "0x00090001",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0x00090005",
+            "source_usage": "0x00090002",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0x00090008",
+            "source_usage": "0x00090003",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0x00090007",
+            "source_usage": "0x00090004",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0x00090013",
+            "source_usage": "0x00090007",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0x00090014",
+            "source_usage": "0x00090008",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0x00090001",
+            "source_usage": "0x00090005",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0x00090002",
+            "source_usage": "0x00090006",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0xfff90003",
+            "source_usage": "0xfff90003",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0xfff90004",
+            "source_usage": "0xfff90004",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0xfff90001",
+            "source_usage": "0xfff90001",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0xfff90002",
+            "source_usage": "0xfff90002",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0x00010030",
+            "source_usage": "0xfff30002",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0x0009000b",
+            "source_usage": "0x00090009",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0x0009000c",
+            "source_usage": "0x0009000a",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0x0009000e",
+            "source_usage": "0x0009000b",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        },
+        {
+            "target_usage": "0x0009000f",
+            "source_usage": "0x0009000c",
+            "scaling": 1000,
+            "layers": [
+                0
+            ],
+            "sticky": false,
+            "tap": false,
+            "hold": false,
+            "source_port": 0,
+            "target_port": 0
+        }
+    ],
+    "macros": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "expressions": [
+        "1000 recall 4000 port 0x00010030 input_state 1000 mul sub -127000 max 127000 min dup 1000 store 127000 add eol",
+        "2000 recall 4000 port 0x00010030 input_state 1000 mul add -127000 max 127000 min dup 2000 store 127000 add eol",
+        "3000 recall 4000 port 0x00010031 input_state 1000 mul add -127000 max 127000 min dup 3000 store 127000 add",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "quirks": []
+}
