@@ -8,7 +8,9 @@ Designed by Franticware: https://github.com/Franticware/usb-to-ps1-mouse-pro/
 
 Available here (EU): https://www.franticware.com/usb-to-ps1-mouse-pro-availability
 
-Only modification I made was to swap the PSX connector to PS360's RJ45 spec.
+I modified it by removing the PSX connector lines and adding an RJ45 jack in the PS360+ spec.
+
+**I'm not an electrical engineer**, so please note this one's a "provided as-is" kind of deal, Franticware's is likely way more reliable.
 
 ## usb2ps1mouse_rj45.stl
 
